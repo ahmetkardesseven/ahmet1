@@ -28,6 +28,9 @@ class ViewController: UIViewController {
         
        
         
+        
+        
+        
     }
 
     func renkDegistir(itemAppearance:UITabBarItemAppearance){
