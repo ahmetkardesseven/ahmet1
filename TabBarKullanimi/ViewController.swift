@@ -26,8 +26,7 @@ class ViewController: UIViewController {
         renkDegistir(itemAppearance: appearance.inlineLayoutAppearance)
         renkDegistir(itemAppearance: appearance.compactInlineLayoutAppearance)
         
-        tabBarController?.tabBar.standardAppearance = appearance
-        tabBarController?.tabBar.scrollEdgeAppearance = appearance
+       
         
     }
 
