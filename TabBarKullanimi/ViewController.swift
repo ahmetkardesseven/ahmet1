@@ -43,6 +43,7 @@ class ViewController: UIViewController {
         itemAppearance.normal.badgeBackgroundColor = UIColor.lightGray
         
         //Login ekranı tamamlandı.
+        // Launch scrren tamamlandı.
     }
     
     
