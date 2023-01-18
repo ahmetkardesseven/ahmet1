@@ -47,6 +47,7 @@ class ViewController: UIViewController {
     }
     //ahmet
     //mehmet
+    //gelen gitti
     
     
     
