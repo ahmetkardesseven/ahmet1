@@ -42,12 +42,9 @@ class ViewController: UIViewController {
         itemAppearance.normal.titleTextAttributes = [.foregroundColor:UIColor.white]
         itemAppearance.normal.badgeBackgroundColor = UIColor.lightGray
         
-        //Login ekranı tamamlandı.
-        // Launch scrren.
+    
     }
-    //ahmet
-    //mehmet
-    //gelen gitti
+   
     
     
     
